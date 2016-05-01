@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/meizu/arale" name="xen0n/android_device_meizu_arale" revision="cm-13.0"/>
-  <project path="device/meizu/mx4" name="xen0n/android_device_meizu_mx4" revision="cm-13.0"/>
-  <project path="vendor/meizu/arale" name="xen0n/android_vendor_meizu_arale" revision="cm-13.0"/>
+  <project path="device/xiaomi/hermes" name="jianminglok/android_device_xiaomi_hermes"/>
+  <project path="vendor/xiaomi/hermes" name="jianminglok/android_vendor_xiaomi_hermes" revision="cm-12.1"/>
 
   <!-- vim:set ai et ts=2 sw=2 sts=2 fenc=utf-8: -->
 </manifest>
